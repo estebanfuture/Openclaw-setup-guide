@@ -1,0 +1,9 @@
+.env
+.env.*
+*.log
+*.tmp
+*.bak
+node_modules/
+.vscode/settings.json
+assets/capturas-privadas/
+secrets/
